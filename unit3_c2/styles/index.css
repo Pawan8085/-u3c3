@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    width: 100%;
+    height: 60px;
+    background-color: #9efdd8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h3{
+    margin-left: 20px;
+}
+a{
+    margin-right: 20px;
+}
+input{
+    display: block;  
+    margin-bottom: 5px; 
+    padding: 4px 0px 4px 2px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 15px;
+}
+#submit{
+    padding: 4px 0px 4px 2px;
+    cursor: pointer;
+}
+#signup{
+    width: 20%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #9efdd8;
+}
